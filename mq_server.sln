@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mq_server", "mq_server\mq_server.csproj", "{0128FEBC-42D8-44E1-9BCA-7A105D97AA0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mq_client", "mq_client\mq_client.csproj", "{6D0C4EB8-6E18-4ED3-81A4-AC9634FD4158}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mq_entities", "mq_entities\mq_entities.csproj", "{E394B5FD-8B23-41D2-9401-B174C7F28BF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0128FEBC-42D8-44E1-9BCA-7A105D97AA0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0128FEBC-42D8-44E1-9BCA-7A105D97AA0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0128FEBC-42D8-44E1-9BCA-7A105D97AA0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0128FEBC-42D8-44E1-9BCA-7A105D97AA0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D0C4EB8-6E18-4ED3-81A4-AC9634FD4158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D0C4EB8-6E18-4ED3-81A4-AC9634FD4158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D0C4EB8-6E18-4ED3-81A4-AC9634FD4158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D0C4EB8-6E18-4ED3-81A4-AC9634FD4158}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E394B5FD-8B23-41D2-9401-B174C7F28BF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E394B5FD-8B23-41D2-9401-B174C7F28BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E394B5FD-8B23-41D2-9401-B174C7F28BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E394B5FD-8B23-41D2-9401-B174C7F28BF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

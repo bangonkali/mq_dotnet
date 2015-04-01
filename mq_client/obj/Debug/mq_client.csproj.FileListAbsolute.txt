@@ -1,0 +1,14 @@
+c:\users\gilmichael.regalado\documents\visual studio 2012\Projects\mq_server\mq_client\bin\Debug\mq_client.exe.config
+c:\users\gilmichael.regalado\documents\visual studio 2012\Projects\mq_server\mq_client\bin\Debug\mq_client.exe
+c:\users\gilmichael.regalado\documents\visual studio 2012\Projects\mq_server\mq_client\bin\Debug\mq_client.pdb
+c:\users\gilmichael.regalado\documents\visual studio 2012\Projects\mq_server\mq_client\bin\Debug\RabbitMQ.Client.dll
+c:\users\gilmichael.regalado\documents\visual studio 2012\Projects\mq_server\mq_client\bin\Debug\RabbitMQ.ServiceModel.dll
+c:\users\gilmichael.regalado\documents\visual studio 2012\Projects\mq_server\mq_client\bin\Debug\RabbitMQ.Client.xml
+c:\users\gilmichael.regalado\documents\visual studio 2012\Projects\mq_server\mq_client\obj\Debug\mq_client.exe
+c:\users\gilmichael.regalado\documents\visual studio 2012\Projects\mq_server\mq_client\obj\Debug\mq_client.pdb
+c:\users\gilmichael.regalado\documents\visual studio 2012\Projects\mq_server\mq_client\bin\Debug\mq_entities.dll
+c:\users\gilmichael.regalado\documents\visual studio 2012\Projects\mq_server\mq_client\bin\Debug\Newtonsoft.Json.dll
+c:\users\gilmichael.regalado\documents\visual studio 2012\Projects\mq_server\mq_client\bin\Debug\mq_entities.pdb
+c:\users\gilmichael.regalado\documents\visual studio 2012\Projects\mq_server\mq_client\bin\Debug\Newtonsoft.Json.xml
+c:\users\gilmichael.regalado\documents\visual studio 2012\Projects\mq_server\mq_client\obj\Debug\mq_client.csprojResolveAssemblyReference.cache
+c:\users\gilmichael.regalado\documents\visual studio 2012\Projects\mq_server\mq_client\bin\Debug\Topshelf.dll

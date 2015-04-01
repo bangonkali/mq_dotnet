@@ -1,0 +1,7 @@
+c:\users\gilmichael.regalado\documents\visual studio 2012\Projects\mq_server\mq_entities\bin\Debug\mq_entities.dll
+c:\users\gilmichael.regalado\documents\visual studio 2012\Projects\mq_server\mq_entities\bin\Debug\mq_entities.pdb
+c:\users\gilmichael.regalado\documents\visual studio 2012\Projects\mq_server\mq_entities\bin\Debug\Newtonsoft.Json.dll
+c:\users\gilmichael.regalado\documents\visual studio 2012\Projects\mq_server\mq_entities\bin\Debug\Newtonsoft.Json.xml
+c:\users\gilmichael.regalado\documents\visual studio 2012\Projects\mq_server\mq_entities\obj\Debug\mq_entities.dll
+c:\users\gilmichael.regalado\documents\visual studio 2012\Projects\mq_server\mq_entities\obj\Debug\mq_entities.pdb
+c:\users\gilmichael.regalado\documents\visual studio 2012\Projects\mq_server\mq_entities\obj\Debug\mq_entities.csprojResolveAssemblyReference.cache
